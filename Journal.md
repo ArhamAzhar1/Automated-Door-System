@@ -6,3 +6,4 @@ Description: "This Arduino project is a smart entry system that counts people us
 Created On: "8/6/2025"
 Today on: "8/7/2025"
 I worked on my project from 9:00 to 10:00, in which I designed its circuit on wokwi. Further more I worked on its code and now its fully functional.
+https://wokwi.com/projects/438652373013055489
